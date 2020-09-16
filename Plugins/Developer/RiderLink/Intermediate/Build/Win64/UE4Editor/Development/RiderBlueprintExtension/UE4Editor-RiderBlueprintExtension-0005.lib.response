@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RiderBlueprintExtension-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProjects\Win_TestSideScroller_425\Intermediate\Build\Win64\Win_TestSideScrollerEditor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.h.obj"
+"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\Module.RiderBlueprintExtension.cpp.obj"
+"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\Default.rc2.res"
+/OUT:"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\UE4Editor-RiderBlueprintExtension-0005.lib"
+/INCLUDE:IMPLEMENT_MODULE_RiderBlueprintExtension
