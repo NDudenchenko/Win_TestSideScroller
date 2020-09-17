@@ -29,7 +29,7 @@
 /wd4244
 /wd4838
 /I .
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderBlueprintExtension\Private
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderBlueprintExtension\Private
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -125,40 +125,40 @@
 /I Runtime\Json\Public\Dom
 /I Runtime\Json\Public\Policies
 /I Runtime\Json\Public\Serialization
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\ext
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\intern
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\wire
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler\base
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\nonstd
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\optional
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\optional\tl
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorRoot
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\ext
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\intern
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\wire
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler\base
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\nonstd
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\optional
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\optional\tl
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorRoot
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Slate
 /I Runtime\Slate\Public
 /I Runtime\Slate
@@ -576,8 +576,8 @@
 /I Runtime\AIModule\Public
 /I Runtime\AIModule\Classes
 /I Runtime\AIModule
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderBlueprintExtension\Public
-/I D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderBlueprintExtension
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderBlueprintExtension\Public
+/I D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderBlueprintExtension
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -607,12 +607,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"D:\UEProjects\Win_TestSideScroller_425\Intermediate\Build\Win64\Win_TestSideScrollerEditor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.h"
-/Yu"D:\UEProjects\Win_TestSideScroller_425\Intermediate\Build\Win64\Win_TestSideScrollerEditor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.h"
-/Fp"D:\UEProjects\Win_TestSideScroller_425\Intermediate\Build\Win64\Win_TestSideScrollerEditor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.h.pch"
-"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\Module.RiderBlueprintExtension.cpp"
-/FI"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\Definitions.RiderBlueprintExtension.h"
-/Fo"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\Module.RiderBlueprintExtension.cpp.obj"
+/FI"D:\UEProjects\Win_TestSideScroller\Intermediate\Build\Win64\Win_TestSideScrollerEditor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.h"
+/Yu"D:\UEProjects\Win_TestSideScroller\Intermediate\Build\Win64\Win_TestSideScrollerEditor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.h"
+/Fp"D:\UEProjects\Win_TestSideScroller\Intermediate\Build\Win64\Win_TestSideScrollerEditor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.h.pch"
+"D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\Module.RiderBlueprintExtension.cpp"
+/FI"D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\Definitions.RiderBlueprintExtension.h"
+/Fo"D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\Module.RiderBlueprintExtension.cpp.obj"
 /TP
 /GR
 /W4

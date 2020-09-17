@@ -20,6 +20,6 @@ public:
     UPROPERTY(BlueprintReadOnly, EditAnywhere, Category="Ability")
     EGASAbilityInputID AbilityInputID = EGASAbilityInputID::None;
 
-    UPROPERTY(BlueprintReadOnly, EditAnywhere, Category="Ability")
-    EGASAbilityInputID AbilityID = EGASAbilityInputID::None;
+    // UPROPERTY(BlueprintReadOnly, EditAnywhere, Category="Ability")
+    // EGASAbilityInputID AbilityID = EGASAbilityInputID::None;
 };

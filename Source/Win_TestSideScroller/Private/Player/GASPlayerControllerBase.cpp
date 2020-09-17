@@ -10,9 +10,9 @@ void AGASPlayerControllerBase::AcknowledgePossession(APawn* P)
 {
     Super::AcknowledgePossession(P);
 
-    AGASCharacterBase* CharacterBase = Cast<AGASCharacterBase>(P);
-    if(CharacterBase)
-    {
-        CharacterBase->GetAbilitySystemComponent()->InitAbilityActorInfo(CharacterBase, CharacterBase);
-    }
+    // AGASCharacterBase* CharacterBase = Cast<AGASCharacterBase>(P);
+    // if(CharacterBase)
+    // {
+    //     CharacterBase->GetAbilitySystemComponent()->InitAbilityActorInfo(CharacterBase, CharacterBase);
+    // }
 }

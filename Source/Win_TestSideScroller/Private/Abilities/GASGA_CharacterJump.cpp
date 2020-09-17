@@ -7,6 +7,7 @@
 UGASGA_CharacterJump::UGASGA_CharacterJump()
 {
     AbilityInputID = EGASAbilityInputID::Jump;
+    InstancingPolicy = EGameplayAbilityInstancingPolicy::NonInstanced;
     //AbilityTags.AddTag(FGameplayTag::RequestGameplayTag(FName("Ability.Jump")));
 }
 
@@ -14,7 +15,7 @@ void UGASGA_CharacterJump::ActivateAbility(const FGameplayAbilitySpecHandle Hand
     const FGameplayAbilityActorInfo* ActorInfo, const FGameplayAbilityActivationInfo ActivationInfo,
     const FGameplayEventData* TriggerEventData)
 {
-    UE_LOG(LogTemp, Display, TEXT("Jump ability cpp 2"));
+    
     if(HasAuthorityOrPredictionKey(ActorInfo, &ActivationInfo))
     {
         if(!CommitAbility(Handle, ActorInfo, ActivationInfo))
@@ -23,13 +24,29 @@ void UGASGA_CharacterJump::ActivateAbility(const FGameplayAbilitySpecHandle Hand
         }
 
         AGASCharacterBase* Character = CastChecked<AGASCharacterBase>(ActorInfo->AvatarActor.Get(), ECastCheckedType::NullAllowed);
-        Character->Jump();
+        //Character->Jump();
+        Character->Movement
+        UE_LOG(LogTemp, Display, TEXT("Jump ability cpp 2"));
     }
 }
 
+bool UGASGA_CharacterJump::CanActivateAbility(const FGameplayAbilitySpecHandle Handle,
+    const FGameplayAbilityActorInfo* ActorInfo, const FGameplayTagContainer* SourceTags,
+    const FGameplayTagContainer* TargetTags, FGameplayTagContainer* OptionalRelevantTags) const
+{
+    if (!Super::CanActivateAbility(Handle, ActorInfo, SourceTags, TargetTags, OptionalRelevantTags))
+    {
+        return false;
+    }
+
+    const AGASCharacterBase* Character = CastChecked<AGASCharacterBase>(ActorInfo->AvatarActor.Get(), ECastCheckedType::NullAllowed);
+    return Character && Character->CanJump();
+    
+}
+
 void UGASGA_CharacterJump::CancelAbility(const FGameplayAbilitySpecHandle Handle,
-    const FGameplayAbilityActorInfo* ActorInfo, const FGameplayAbilityActivationInfo ActivationInfo,
-    bool bReplicateCancelAbility)
+                                         const FGameplayAbilityActorInfo* ActorInfo, const FGameplayAbilityActivationInfo ActivationInfo,
+                                         bool bReplicateCancelAbility)
 {
     if (ScopeLockCount > 0)
     {

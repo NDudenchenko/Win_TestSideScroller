@@ -63,6 +63,7 @@
 "D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\win-vs19\libs\Win\x64\Release\rd_framework_cpp.lib"
 "D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\win-vs19\libs\Win\x64\Release\clsocket.lib"
 "D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\win-vs19\libs\Win\x64\Release\rd_core_cpp.lib"
+"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\win-vs19\libs\Win\x64\Release\spdlog.lib"
 "D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLink\UE4Editor-RiderLink.lib"
 "D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\UE4Editor-RiderBlueprintExtension.lib"
