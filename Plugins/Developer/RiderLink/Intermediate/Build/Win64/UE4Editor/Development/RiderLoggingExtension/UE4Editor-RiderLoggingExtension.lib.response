@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-RiderLoggingExtension.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\UEProjects\Win_TestSideScroller_425\Intermediate\Build\Win64\Win_TestSideScrollerEditor\Development\Core\SharedPCH.Core.RTTI.h.obj"
-"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLoggingExtension\Module.RiderLoggingExtension.cpp.obj"
-"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLoggingExtension\Default.rc2.res"
-/OUT:"D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLoggingExtension\UE4Editor-RiderLoggingExtension.lib"
+"D:\UEProjects\Win_TestSideScroller\Intermediate\Build\Win64\Win_TestSideScrollerEditor\Development\Core\SharedPCH.Core.RTTI.h.obj"
+"D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLoggingExtension\Module.RiderLoggingExtension.cpp.obj"
+"D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLoggingExtension\Default.rc2.res"
+/OUT:"D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLoggingExtension\UE4Editor-RiderLoggingExtension.lib"
 /INCLUDE:IMPLEMENT_MODULE_RiderLoggingExtension

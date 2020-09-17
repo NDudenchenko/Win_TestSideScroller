@@ -1,6 +1,6 @@
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLink\Definitions.RiderLink.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Private/ProtocolFactory.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Private\ProtocolFactory.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLink\Definitions.RiderLink.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Private/ProtocolFactory.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Private\ProtocolFactory.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
@@ -102,12 +102,12 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\ime_cmodes.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp/protocol/Protocol.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IProtocol.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base\IRdDynamic.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RName.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\thirdparty.hpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl/ordered_set.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp/protocol/Protocol.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IProtocol.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base\IRdDynamic.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RName.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\thirdparty.hpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl/ordered_set.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cstdint
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\deque
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\xmemory
@@ -127,7 +127,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\memory
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\iosfwd
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\vector
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl\ordered_hash.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl\ordered_hash.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\algorithm
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
@@ -135,13 +135,13 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\iterator
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\stdexcept
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\xstring
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl/ordered_map.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\optional\tl\optional.hpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark/variant.hpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark\config.hpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark\in_place.hpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark\lib.hpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\nonstd/string_view.hpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl/ordered_map.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\optional\tl\optional.hpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark/variant.hpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark\config.hpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark\in_place.hpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark\lib.hpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\nonstd/string_view.hpp
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\ostream
@@ -163,20 +163,20 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\string
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cctype
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/Serializers.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/RdId.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/Buffer.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types/DateTime.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/hash.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/Serializers.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/RdId.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/Buffer.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types/DateTime.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/hash.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\ctime
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\time.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/core_util.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util\erase_if.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/gen_util.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/allocator.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/overloaded.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/shared_function.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/to_string.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/core_util.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util\erase_if.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/gen_util.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/allocator.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/overloaded.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/shared_function.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/to_string.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\thread
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\chrono
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\ratio
@@ -197,82 +197,82 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\ppltaskscheduler.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\crtdefs.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\pplcancellation_token.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types/wrapper.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/core_traits.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types/Void.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/spdlog.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/common.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/tweakme.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/null_mutex.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/fmt/fmt.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/fmt/bundled/core.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/fmt/bundled/format.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/registry.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/cfg/log_levels.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types/wrapper.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/core_traits.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types/Void.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/spdlog.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/common.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/tweakme.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/null_mutex.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/fmt/fmt.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/fmt/bundled/core.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/fmt/bundled/format.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/registry.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/cfg/log_levels.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\unordered_map
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\xhash
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\list
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\xbit_ops.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/logger.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/log_msg.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/backtracer.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/log_msg_buffer.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/circular_q.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/logger.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/log_msg.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/backtracer.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/log_msg_buffer.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/circular_q.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/version.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/synchronous_factory.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/version.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/synchronous_factory.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\iostream
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cassert
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/list.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util\hashing.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/ISerializable.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/Identities.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IUnknownInstance.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/RdAny.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization\DefaultAbstractDeclaration.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/unordered_map.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/list.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util\hashing.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/ISerializable.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/Identities.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IUnknownInstance.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/RdAny.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization\DefaultAbstractDeclaration.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/unordered_map.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\unordered_set
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler/base/IScheduler.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IWire.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/interfaces.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime/Lifetime.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime\LifetimeImpl.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler/base/IScheduler.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IWire.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/interfaces.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime/Lifetime.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime\LifetimeImpl.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\map
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\xtree
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IRdReactive.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base\IRdBindable.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base\IRdWireable.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/Property.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IProperty.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/SignalX.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base\IPropertyBase.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime/SequentialLifetimes.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime/LifetimeDefinition.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/SerializationCtx.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IRdReactive.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base\IRdBindable.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base\IRdWireable.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/Property.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IProperty.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/SignalX.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base\IPropertyBase.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime/SequentialLifetimes.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime/LifetimeDefinition.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/SerializationCtx.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\regex
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\locale
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocbuf
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocmes
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocmon
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\xloctime
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\intern/InternRoot.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/RdReactiveBase.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/RdBindableBase.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util\guards.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\intern\InternScheduler.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/InternedAnySerializer.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/SerializationCtx.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\intern/InternRoot.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/RdReactiveBase.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/RdBindableBase.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util\guards.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\intern\InternScheduler.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/InternedAnySerializer.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/SerializationCtx.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp/wire/SocketWire.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/WireBase.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/MessageBroker.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp/wire/SocketWire.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/WireBase.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/MessageBroker.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\queue
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\wire\ByteBufferAsyncProcessor.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\wire\PkgInputStream.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\SimpleSocket.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\wire\ByteBufferAsyncProcessor.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\wire\PkgInputStream.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\SimpleSocket.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\io.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_io.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winsock2.h
@@ -282,10 +282,10 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\qos.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\Ws2tcpip.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\ws2ipdef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\in6addr.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\Host.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\StatTimer.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\ActiveSocket.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\PassiveSocket.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\Host.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\StatTimer.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\ActiveSocket.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\clsocket\src\PassiveSocket.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\array
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
@@ -293,95 +293,95 @@ D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
 D:\UE_4.25\Engine\Source\Runtime/Launch/Resources/Version.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Private/RdConnection.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdConnection.hpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Private/RdConnection.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdConnection.hpp
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp/scheduler/SingleThreadScheduler.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler\base/SingleThreadSchedulerBase.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdSignal.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/Polymorphic.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdProperty.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/RdPropertyBase.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdList.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/ViewableList.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IViewableList.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base\viewable_collections.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdSet.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/ViewableSet.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IViewableSet.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdMap.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/ViewableMap.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IViewableMap.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/ISerializersOwner.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/NullableSerializer.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/AbstractPolymorphic.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util\framework_traits.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/ArraySerializer.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/InternedSerializer.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\ext/RdExtBase.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\ext\ExtWire.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task/RdCall.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\RdTask.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\RdTaskImpl.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\RdTaskResult.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler/SynchronousScheduler.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\WiredRdTask.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\WiredRdTaskImpl.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task/RdEndpoint.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task/RdSymmetricCall.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/enum.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../instantiations.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\UE4TypesMarshallers.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/UnrealLogEvent.Generated.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/LogMessageInfo.Generated.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/StringRange.Generated.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/BlueprintReference.Generated.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/UClass.Generated.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/PlayState.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp/scheduler/SingleThreadScheduler.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler\base/SingleThreadSchedulerBase.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdSignal.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/Polymorphic.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdProperty.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/RdPropertyBase.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdList.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/ViewableList.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IViewableList.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base\viewable_collections.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdSet.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/ViewableSet.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IViewableSet.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdMap.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/ViewableMap.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IViewableMap.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/ISerializersOwner.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/NullableSerializer.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/AbstractPolymorphic.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util\framework_traits.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/ArraySerializer.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/InternedSerializer.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\ext/RdExtBase.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\ext\ExtWire.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task/RdCall.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\RdTask.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\RdTaskImpl.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\RdTaskResult.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler/SynchronousScheduler.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\WiredRdTask.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\WiredRdTaskImpl.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task/RdEndpoint.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task/RdSymmetricCall.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/enum.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../instantiations.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\UE4TypesMarshallers.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/UnrealLogEvent.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/LogMessageInfo.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/StringRange.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/BlueprintReference.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/UClass.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/PlayState.Generated.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol/UE4Library/UE4Library.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Private/RiderLink.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RiderLink.hpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol/UE4Library/UE4Library.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Private/RiderLink.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RiderLink.hpp
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Private/UE4TypesMarshallers.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/instantiations.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../RdEditorRoot/RdEditorRoot.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/BlueprintFunction.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\BlueprintFunction.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/BlueprintHighlighter.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\BlueprintHighlighter.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/BlueprintReference.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/EmptyScriptCallStack.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\EmptyScriptCallStack.Generated.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\IScriptCallStack.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/IScriptCallStack.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\IScriptCallStack_Unknown.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/IScriptCallStack_Unknown.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/IScriptMsg.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\IScriptMsg.Generated.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\IScriptMsg_Unknown.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/IScriptMsg_Unknown.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/LogMessageInfo.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/PlayState.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/ScriptCallStack.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\ScriptCallStack.Generated.h
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/ScriptCallStackFrame.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/ScriptCallStackFrame.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/ScriptMsgCallStack.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\ScriptMsgCallStack.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/ScriptMsgException.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\ScriptMsgException.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/StringRange.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/UClass.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/UE4Library.Generated.cpp
-D:\UEProjects\Win_TestSideScroller_425\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/UnableToDisplayScriptCallStack.Generated.h
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/UnableToDisplayScriptCallStack.Generated.cpp
-D:/UEProjects/Win_TestSideScroller_425/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/UnrealLogEvent.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Private/UE4TypesMarshallers.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/instantiations.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../RdEditorRoot/RdEditorRoot.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/BlueprintFunction.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\BlueprintFunction.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/BlueprintHighlighter.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\BlueprintHighlighter.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/BlueprintReference.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/EmptyScriptCallStack.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\EmptyScriptCallStack.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\IScriptCallStack.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/IScriptCallStack.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\IScriptCallStack_Unknown.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/IScriptCallStack_Unknown.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/IScriptMsg.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\IScriptMsg.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\IScriptMsg_Unknown.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/IScriptMsg_Unknown.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/LogMessageInfo.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/PlayState.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/ScriptCallStack.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\ScriptCallStack.Generated.h
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/ScriptCallStackFrame.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/ScriptCallStackFrame.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/ScriptMsgCallStack.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\ScriptMsgCallStack.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/ScriptMsgException.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\ScriptMsgException.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/StringRange.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/UClass.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/UE4Library.Generated.cpp
+D:\UEProjects\Win_TestSideScroller\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/UnableToDisplayScriptCallStack.Generated.h
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/UnableToDisplayScriptCallStack.Generated.cpp
+D:/UEProjects/Win_TestSideScroller/Plugins/Developer/RiderLink/Source/RiderLink/Public/RdEditorProtocol/UE4Library/UnrealLogEvent.Generated.cpp

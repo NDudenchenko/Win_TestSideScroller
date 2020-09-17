@@ -54,22 +54,21 @@ void AGASCharacterBase::PossessedBy(AController* NewController)
 {
 	Super::PossessedBy(NewController);
 
-	if(AbilitySystemComponent)
-	{
-		AbilitySystemComponent->InitAbilityActorInfo(this, this);
-	}
+	// if(AbilitySystemComponent)
+	// {
+	// 	AbilitySystemComponent->InitAbilityActorInfo(this, this);
+	// }
 
 	AddCharacterAbilities();
 
 	// ASC MixedMode replication requires that the ASC Owner's Owner be the Controller. 
-	SetOwner(NewController);
+	//SetOwner(NewController);
 }
 
 UAbilitySystemComponent* AGASCharacterBase::GetAbilitySystemComponent() const
 {
 	return AbilitySystemComponent;
 }
-
 
 void AGASCharacterBase::AddCharacterAbilities()
 {
