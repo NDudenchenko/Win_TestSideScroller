@@ -24,8 +24,7 @@ void UGASGA_CharacterJump::ActivateAbility(const FGameplayAbilitySpecHandle Hand
         }
 
         AGASCharacterBase* Character = CastChecked<AGASCharacterBase>(ActorInfo->AvatarActor.Get(), ECastCheckedType::NullAllowed);
-        //Character->Jump();
-        Character->Movement
+        Character->Jump();
         UE_LOG(LogTemp, Display, TEXT("Jump ability cpp 2"));
     }
 }

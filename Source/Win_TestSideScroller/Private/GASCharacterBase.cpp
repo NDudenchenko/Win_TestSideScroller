@@ -27,7 +27,7 @@ void AGASCharacterBase::BeginPlay()
 	//AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetMoveSpeedAttribute())
 	//.AddUObject(this, &AGASCharacterBase::OnMovementAttributeChanged);
 
-	//AddCharacterAbilities();
+	AddCharacterAbilities();
 }
 
 // Called every frame
@@ -53,13 +53,13 @@ void AGASCharacterBase::SetupPlayerInputComponent(UInputComponent* PlayerInputCo
 void AGASCharacterBase::PossessedBy(AController* NewController)
 {
 	Super::PossessedBy(NewController);
-
+	UE_LOG(LogTemp, Warning, TEXT("Jump ability") );
 	// if(AbilitySystemComponent)
 	// {
 	// 	AbilitySystemComponent->InitAbilityActorInfo(this, this);
 	// }
 
-	AddCharacterAbilities();
+	//AddCharacterAbilities();
 
 	// ASC MixedMode replication requires that the ASC Owner's Owner be the Controller. 
 	//SetOwner(NewController);
