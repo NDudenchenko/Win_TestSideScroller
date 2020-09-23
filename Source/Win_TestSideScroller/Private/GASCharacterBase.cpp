@@ -17,7 +17,7 @@ AGASCharacterBase::AGASCharacterBase()
 	AbilitySystemComponent->SetIsReplicated(true);
 	
 	AttributeSet = CreateDefaultSubobject<UGASAttributeSetBase>(TEXT("MyAttributeSet"));
-	//Test string 2
+	//Test string 
 }
 
 // Called when the game starts or when spawned
