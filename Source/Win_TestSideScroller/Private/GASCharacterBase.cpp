@@ -53,16 +53,14 @@ void AGASCharacterBase::SetupPlayerInputComponent(UInputComponent* PlayerInputCo
 void AGASCharacterBase::PossessedBy(AController* NewController)
 {
 	Super::PossessedBy(NewController);
-	UE_LOG(LogTemp, Warning, TEXT("Jump ability") );
-	// if(AbilitySystemComponent)
-	// {
-	// 	AbilitySystemComponent->InitAbilityActorInfo(this, this);
-	// }
-
-	//AddCharacterAbilities();
+	
+	if(AbilitySystemComponent)
+	{
+		AbilitySystemComponent->InitAbilityActorInfo(this, this);
+	}
 
 	// ASC MixedMode replication requires that the ASC Owner's Owner be the Controller. 
-	//SetOwner(NewController);
+	SetOwner(NewController);
 }
 
 UAbilitySystemComponent* AGASCharacterBase::GetAbilitySystemComponent() const
@@ -73,7 +71,6 @@ UAbilitySystemComponent* AGASCharacterBase::GetAbilitySystemComponent() const
 void AGASCharacterBase::AddCharacterAbilities()
 {
 	// Use if abilities store in TArray
-	
 	// for(TSubclassOf<UGASGameplayAbilityBase>& StartupAbility : CharacterAbilities)
 	// {
 	// 	AbilitySystemComponent->GiveAbility(

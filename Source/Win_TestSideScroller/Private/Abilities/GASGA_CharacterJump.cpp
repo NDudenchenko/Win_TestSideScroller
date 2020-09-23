@@ -8,7 +8,7 @@ UGASGA_CharacterJump::UGASGA_CharacterJump()
 {
     AbilityInputID = EGASAbilityInputID::Jump;
     InstancingPolicy = EGameplayAbilityInstancingPolicy::NonInstanced;
-    //AbilityTags.AddTag(FGameplayTag::RequestGameplayTag(FName("Ability.Jump")));
+    AbilityTags.AddTag(FGameplayTag::RequestGameplayTag(FName("Ability.Jump")));
 }
 
 void UGASGA_CharacterJump::ActivateAbility(const FGameplayAbilitySpecHandle Handle,
