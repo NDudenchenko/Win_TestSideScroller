@@ -5,7 +5,6 @@
 #include "AbilitySystemComponent.h"
 #include "AbilitySystemGlobals.h"
 #include "GASGameplayAbilityBase.h"
-#include "Win_TestSideScroller.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
 // Sets default values
@@ -18,7 +17,7 @@ AGASCharacterBase::AGASCharacterBase()
 	AbilitySystemComponent->SetIsReplicated(true);
 	
 	AttributeSet = CreateDefaultSubobject<UGASAttributeSetBase>(TEXT("MyAttributeSet"));
-	//Test string
+	//Test string 2
 }
 
 // Called when the game starts or when spawned
